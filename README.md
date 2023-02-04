@@ -6,7 +6,7 @@
 |🐰 배재영(jabae)|[pearpearB](https://github.com/pearpearB)|[pearpearb.log](https://velog.io/@pearpearb)|
 |🐻 김대현(daekim)|[KimDae-hyun](https://github.com/KimDae-hyun)|[daekim.log](https://velog.io/@dev_kdh)|
 |🐱 김지윤(jiyokim)|[kjy00](https://github.com/kjy00)|[jyoonIT](https://jyoonit.tistory.com/)|
-|🐱 정래현(rjeong)|[raehy19](https://github.com/raehy19)||
+|🦊 정래현(rjeong)|[raehy19](https://github.com/raehy19)||
 ## 2. 시간
 매주 토요일 2:00pm
 ## 3. 스터디 방식
